@@ -1,0 +1,56 @@
+
+body 
+{
+   background-image: url("./Images/background.jpg");
+}
+
+.container 
+{
+   height: 700px;
+   width: 400px;
+   background-color: skyblue;
+   margin: 150px 750px;
+   border-radius: 20px;
+   padding: 20px;
+}
+
+hr 
+{
+   background-color: black;
+}
+
+.rectangle_container {
+   height: 570px;
+   width : 305px;
+   margin: 10px 50px;
+   background-color: aliceblue;
+   border: 2px solid black;
+
+
+}
+
+.search {
+   height: 10px;
+   margin-left: 50px;
+   width: 200px;
+}
+
+#search {
+   height: 20px;
+   width:250px;
+   margin-left : 50px;
+}
+
+p {
+   text-align: center;
+  
+}
+
+input {
+   border : 2px solid black;
+}
+
+
+alert {
+   padding: 20px;
+}
